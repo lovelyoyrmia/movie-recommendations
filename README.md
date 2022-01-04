@@ -17,7 +17,7 @@ Let's have a look at some codes that might help you out to build recommender sys
 
 [Dataset Movies](https://www.kaggle.com/tmdb/tmdb-movie-metadata/version/2)
 
-[Link Website](https://movie-recommendations.herokuapp.com/)
+[Link Website](https://bit.ly/3JQQjiL)
 
 ## Example
 <img src='assets/movie.gif' alt=''>
