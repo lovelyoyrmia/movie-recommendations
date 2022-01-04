@@ -17,8 +17,11 @@ recommendations = Recommendations(movies_list, similarity, movies)
 st.set_page_config(page_title='Movies Recommender', page_icon=image, layout="wide")
 hide_menu_style = '''
    <style>
-      #MainMenu {visibility: hidden; }
+      #MainMenu {display: none; }
       footer {visibility: hidden;}
+      .css-fk4es0 {display: none;}
+      #stStatusWidget {display: none;}
+      .css-r698ls {display: none;}
    </style>
 '''
 st.markdown(hide_menu_style, unsafe_allow_html=True)
