@@ -43,7 +43,7 @@ def link_movie(homepage):
    __[Link Movie]({homepage})__
    ''')
 
-names_list, posters_list, homepage, overview = recommendations.fetch_data('Batman')
+names_list, posters_list, homepage, overview = recommendations.fetch_data('Avatar')
 
 # Handle button
 if st.button('Recommend'):
