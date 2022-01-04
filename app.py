@@ -8,7 +8,7 @@ from recommendations import Recommendations
 movies_list = pickle.load(open('movies.pkl', 'rb'))
 similarity = pickle.load(open('similarity.pkl', 'rb'))
 movies = pd.DataFrame(movies_list)
-image = Image.open('logo.png')
+image = Image.open('assets/logo.png')
  
 # Declare Class
 recommendations = Recommendations(movies_list, similarity, movies)
