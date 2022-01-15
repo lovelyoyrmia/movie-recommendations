@@ -1,5 +1,7 @@
 # WEB MOVIE RECOMMENDATIONS
 
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://share.streamlit.io/lovelyoyrmia/movie-recommendations/app.py)
+
 One of recommender system i built was using streamlit and google colab to build that model, you all can be recommended with this website. Technology i use is cosine-similarity from sklearn's library. This will help you to find movies that are similar to what movie you're looking for
 
 Let's have a look at some codes that might help you out to build recommender system
@@ -16,8 +18,6 @@ Let's have a look at some codes that might help you out to build recommender sys
 - Streamlit run app.py
 
 [Dataset Movies](https://www.kaggle.com/tmdb/tmdb-movie-metadata/version/2)
-
-[Link Website](https://bit.ly/3JQQjiL)
 
 ## Example
 <img src='assets/movie.gif' alt=''>
